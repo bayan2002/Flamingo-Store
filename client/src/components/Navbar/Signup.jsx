@@ -68,7 +68,7 @@ function SignUp() {
         </div>
         <div className="form-group">
           <span className="input-icon">
-          <i className="fa fa-envelope" />
+            <i className="fa fa-envelope" />
           </span>
           <input
             className="form-control"
@@ -98,7 +98,7 @@ function SignUp() {
         </div>
         <div className="form-group">
           <span className="input-icon">
-          <i className="fa fa-key" />
+            <i className="fa fa-key" />
           </span>
           <input
             className="form-control"
@@ -113,7 +113,7 @@ function SignUp() {
         </div>
         <div className="form-group">
           <span className="input-icon">
-          <i className="fa fa-key" />
+            <i className="fa fa-key" />
           </span>
           <input
             className="form-control"

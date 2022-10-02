@@ -7,5 +7,4 @@ userRouter.post("/api/v1/users/signin", signin);
 
 userRouter.post("/api/v1/users/signout", signout);
 
-
 module.exports = userRouter;

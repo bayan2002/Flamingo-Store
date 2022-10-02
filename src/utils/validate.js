@@ -9,8 +9,8 @@ const signUpSchema = Joi.object({
 });
 
 const signInSchema = Joi.object({
-    name: Joi.string().required(),
-    email: Joi.string().email().required(),
+  name: Joi.string().required(),
+  email: Joi.string().email().required(),
 });
 
 module.exports = { signInSchema, signUpSchema };
